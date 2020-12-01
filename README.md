@@ -1,3 +1,7 @@
+## Live Website Link
+https://timer-git.azurewebsites.net
+### This will take up to 2 minutes to boot as I'm using Azure free App services. Just open the tab and do something else while you wait.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
